@@ -21,12 +21,12 @@ And to generate Doxygen documentation:
 $ make doc
 ```
 
-## Usage
+## Usage （linux）
 ```C++
 #include <iostream>
 #include <string>
-#include "Document.h"
-#include "Node.h"
+#include "gq/Document.h"
+#include "gq/Node.h"
 
 int main(int argc, char * argv[])
 {
